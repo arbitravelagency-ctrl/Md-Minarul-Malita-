@@ -1,0 +1,6 @@
+{
+  "name": "Arbi Pori Travel Agency",
+  "description": "European job vacancies, visa processing, booking appointments, application tracking, and payment portal for Arbi Pori Travel Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
